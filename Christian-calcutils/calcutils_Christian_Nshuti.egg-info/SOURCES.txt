@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+calcutils_Christian_Nshuti.egg-info/PKG-INFO
+calcutils_Christian_Nshuti.egg-info/SOURCES.txt
+calcutils_Christian_Nshuti.egg-info/dependency_links.txt
+calcutils_Christian_Nshuti.egg-info/top_level.txt

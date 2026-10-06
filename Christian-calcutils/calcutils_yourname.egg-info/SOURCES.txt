@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+calcutils_yourname.egg-info/PKG-INFO
+calcutils_yourname.egg-info/SOURCES.txt
+calcutils_yourname.egg-info/dependency_links.txt
+calcutils_yourname.egg-info/top_level.txt
