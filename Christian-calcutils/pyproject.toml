@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "calcutils_Christian_Nshuti"
-version = "0.1.0"
+name = "calcutils-Christian-Nshuti-2026"
+version = "0.1.7"
 description = "A simple student tutorial math utility package"
 readme = "README.md"
 authors = [
@@ -20,3 +20,5 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/ChristianNshuti/calcutils"
+[tool.setuptools.packages.find]
+where = ["src"]
